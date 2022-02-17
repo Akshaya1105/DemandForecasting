@@ -1,6 +1,6 @@
 {
-    "subscription_id": "Your Azure Subscription ID",
-    "resource_group": "Your Resource Group Name",
-    "workspace_name": "Your Azure ML Workspace Name",
-    "location": "Azure ML Location"
+    "subscription_id": "b28d2e45-d8c2-4ac7-9f63-f5c0f41806cf",
+    "resource_group": "dev-edap-ml-ops",
+    "workspace_name": "edapmlopstest",
+    "location": "~/Users/AHariharan/DemandForecasting"
 }
